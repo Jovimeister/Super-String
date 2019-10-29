@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Jovan Gradojevic
+ * 29/10/2019
+ * A program that can does various things to an entered string.
  */
 
 package superstring;
